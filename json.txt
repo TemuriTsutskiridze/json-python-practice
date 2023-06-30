@@ -1,0 +1,15 @@
+{
+ "coin":"Bitcoin",
+ "release_year":2009,
+ "Active":true,
+ "defunct":false,
+ "Authors":["Satoshi Nakamoto","Elon Musk"],
+ "budget":null,
+ "credits":{
+     "inventor":"Dorian Nakamoto",
+     "Developer":"Craig Wright",
+     "Creator":"Nick Szabo"
+     
+     }
+ 
+ }
